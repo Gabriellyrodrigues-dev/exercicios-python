@@ -1,11 +1,6 @@
-# Exercícios em Python
-
-Repositório com exercícios práticos em Python,
-voltados ao desenvolvimento da lógica de programação.
-
 ## Conteúdo
-- Variáveis
-- Condicionais
-- Laços de repetição
-- Funções
+
+- Exercício 02 — Condicionais (`exercicio_02_condicionais.py`)
+- Exercício 03 — Laços de repetição (`exercicio_03_loops.py`)
+- Exercício 04 — Funções (`exercicio_04_funcoes.py`)
 
